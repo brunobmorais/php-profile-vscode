@@ -1,0 +1,32 @@
+## PROFILE VSCODE PHP
+
+#### EXTENSÕES
+- Auto Close Tag
+- Auto Import - ES6, TS, JSX, TSX
+- Better Comments
+- Composer intelephense
+- DotENV
+- Error Gutters
+- Error Lens
+- ESLint
+- Format HTML in PHP
+- GIT History
+- GitLens - Git supercharged
+- Html CSS Support
+- Inline Fold
+- Inline Parameters Extended for VSCode
+- IntelliSense for CSS class names in HTML
+- JAVASCRIPT (ES6)
+- Javascript Booster
+- Material Icon Theme
+- Path Intellisense
+- PHP Create Class
+- PHP Intelephense
+- PHP Namespace Resolver
+- PHP Snippets
+- PHPUnit Snippets
+- Portuguese (Brazil) Language
+- Recursos da Linguagem PHP
+- Template String Converter
+- TWIG pack
+- VS Color Picker
